@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViolaAlfheny</string>
+    <string name="quantity" translatable="false">jumlah</string>
+    <string name="thank_you">terima kasih</string>
+    <string name="toppings">taburan</string>
+</resources>
